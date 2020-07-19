@@ -6,7 +6,7 @@ This Expense Tracker app was coded in React using functional components with hoo
 
 Clone Locally: <br>
 
-`git clone https://github.com/averjee/expense-tracker-react.git`
+`git clone https://github.com/averjee/expense-tracker-react-context.git`
 
 Inside cloned directory run: <br>
 
